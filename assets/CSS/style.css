@@ -1,0 +1,19 @@
+.content-center {
+    width: 100%;
+    max-width: 300px;
+    margin: auto;
+}
+
+.content-escrita {
+    width: 100%;
+    max-width: 300px;
+    margin: auto;
+    color: white;
+    font-size: 60px;
+    font-family: 'arial', sans-serif;
+}
+
+.resize-image {
+    width: 400px; /* Defina a largura desejada */
+    height: auto; /* Mantém a proporção da imagem */
+}
